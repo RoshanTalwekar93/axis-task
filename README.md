@@ -1,3 +1,11 @@
+# Steps to run the project
+1. Open the project folder in VS Code or in any terminal
+2. Run the command "npm install", which will install all the required dependencies added in package.json.
+3. Run the command "npm run dev", which will start/run the application in browser at url "http://localhost:5173/".
+4. Click on Add Transaction button, modal will pop-up and add the required field. The data will be displayed in the given table.
+4. Screenshots of the project are been shared in "screenshot" folder.
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
